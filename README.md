@@ -8,3 +8,6 @@ Entregables y material del curso de Mineria de Datos
 
 ## Pandas
 [Manipulando Pandas - Jupyter Notebook](https://nbviewer.jupyter.org/github/diegosandovalsk/MineriaDeDatos/blob/main/ManipulandoPandas_DiegoSandoval.ipynb)
+
+##Proyecto
+[Proyecto (borrador)](https://nbviewer.jupyter.org/github/diegosandovalsk/MineriaDeDatos/blob/main/proyecto_mineria.ipynb)
